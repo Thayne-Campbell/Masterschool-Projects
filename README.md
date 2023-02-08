@@ -23,3 +23,8 @@ In this project, I use Tableau to create dynamic insights regarding child povert
 ![my_image](github_images/Stock_Exchange_image.jpg)
 In this project, I use Google Sheets to create a  dynamic P&L Statement, as well as a Forecast Model, and a series of visualizations exploring consumer spending habits.
 ### You can view my spreadsheet on Google Sheets [Here](https://docs.google.com/spreadsheets/d/1OqYvmbHHytL24yEUpXoPekE5zoHspxijvrXGCq3zOkg/edit?usp=sharing) and my PDF presentation [Here](/NYSE_Spreadsheet_Project/NYSE_Project.pdf/)
+
+# Data Preprocessing with Twitter account "We Rate Dogs"
+![my_image](github_images/Dog_image.jpg)
+In this project, I use Python to clean and transform the data obtained from the twitter page "We Rate Dogs" in order t o prepare it for effective and accurate analysis.
+### You can view my data wrangling code [Here](/Data_Preprocessing_Project/wrangle_act.ipynb/), my data wrangling PDF report [Here](/Data_Preprocessing_Project/Wrangle_report.pdf/), and my short analysis report [Here](/Data_Preprocessing_Project/Act_report.pdf/)
