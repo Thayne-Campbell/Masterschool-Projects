@@ -2,7 +2,7 @@
 ## Data Analytic Portfolio
 
 Hello! I'm Thayne and you've found my portfolio! Scroll through the works below you can see some of the projects I've completed using Python, SQL, Tableau, and Google Sheets. 
-
+****
 
 ![my_image](github_images/Bikeshare_image.jpg)
 # Bikeshare Project
