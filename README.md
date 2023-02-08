@@ -1,2 +1,4 @@
-# Masterschool Projects
-This Repository contains all of the projects I've done on my own or have worked on as a team as part of the Masterschool Data Analytics Program.
+# Thayne Campbell | Data Analyst
+## Data Analytic Portfolio
+
+Hello! I'm Thayne and you've found my portfolio! Below you can see some of the work I've done in Python, SQL, Tableau, and Google Sheets. 
