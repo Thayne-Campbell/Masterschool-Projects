@@ -13,3 +13,8 @@ In this project, I use Python to create a user-interactive program that explores
 ![my_image](github_images/Deforestation_image.jpg)
 In this project, I use SQL queries to find insights and answers to complex questions regarding Deforestation data taken from 1990-2016.
 ### You can view my queries [Here](/Deforestation_SQL_Project/APPENDIX_deforestation.pdf/) and my detailed analysis [Here](/Deforestation_SQL_Project/Deforestation_Exploration_Solution.pdf/)
+
+# Tableau Visualization Project (US Census Data from 2015)
+![my_image](github_images/USA_map_image.jpg)
+In this project, I use Tableau to create dynamic insights regarding child poverty rates across the United States.
+### You can view my Tableau Story [Here](https://public.tableau.com/app/profile/thayne.campbell/viz/datavis_project_TC/ChildPovertyRatesAcrossTheUSA)
