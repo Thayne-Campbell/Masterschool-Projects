@@ -18,3 +18,8 @@ In this project, I use SQL queries to find insights and answers to complex quest
 ![my_image](github_images/USA_map_image.jpg)
 In this project, I use Tableau to create dynamic insights regarding child poverty rates across the United States.
 ### You can view my Tableau Story [Here](https://public.tableau.com/app/profile/thayne.campbell/viz/datavis_project_TC/ChildPovertyRatesAcrossTheUSA)
+
+# NYSE Spreadsheet Analysis (Google Sheets)
+![my_image](github_images/Stock_Exchange_image.jpg)
+In this project, I use Google Sheets to create a  dynamic P&L Statement, as well as a Forecast Model, and a series of visualizations exploring consumer spending habits.
+### You can view my spreadsheet on Google Sheets [Here](https://docs.google.com/spreadsheets/d/1OqYvmbHHytL24yEUpXoPekE5zoHspxijvrXGCq3zOkg/edit?usp=sharing) and my PDF presentation [Here](/NYSE_Spreadsheet_Project/NYSE_Project.pdf/)
