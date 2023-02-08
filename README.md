@@ -5,4 +5,4 @@ Hello! I'm Thayne and you've found my portfolio! Below you can see some of the w
 
 
 # Bikeshare Project
-![my_image](github images/Bikeshare image.jpg)
+![my_image](github_images/Bikeshare_image.jpg)
