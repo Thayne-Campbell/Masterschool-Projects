@@ -27,7 +27,7 @@ Hello! I'm Thayne and you've found my portfolio! Scroll through the works below 
 ![my_image](github_images/Dog_image.jpg)
 # Data Preprocessing with Twitter account "We Rate Dogs"
 #### In this project, I use Python to clean and transform the data obtained from the twitter page "We Rate Dogs" in order t o prepare it for effective and accurate analysis.
-### You can view my data wrangling code [Here](/Data_Preprocessing_Project/wrangle_act.ipynb/), my data wrangling PDF report [Here](/Data_Preprocessing_Project/Wrangle_report.pdf/), and my short analysis report [Here](/Data_Preprocessing_Project/Act_report.pdf/)
+### You can view my data wrangling code [Here](/Data_Preprocessing_Project/wrangle_act.ipynb/), my data wrangling PDF report [Here](/Data_Preprocessing_Project/Wrangle_report.pdf/)
 ***
 ![my_image](github_images/Loans_image.jpg)
 # Exploratory Data Analysis Project (Prosper Loan Data)
