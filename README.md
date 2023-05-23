@@ -1,8 +1,16 @@
 # Thayne Campbell | Data Analyst
 ## Data Analytic Portfolio
 
-Hello! I'm Thayne and you've found my portfolio! Scroll through the works below you can see some of the projects I've completed using Python, SQL, Tableau, and Google Sheets. 
-****
+![my_image](github_images/Thayne computer headshot.jpg)
+Welcome to my data analyst portfolio! I'm a dedicated data analyst with a strong passion for transforming complex datasets into compelling visual stories. I thrive on the excitement of uncovering hidden insights and making meaningful connections within the numbers.
+
+With a keen eye for detail and a creative mindset, I specialize in crafting eye-catching visualizations that bring data to life. I believe that effective visual representations not only enhance understanding but also have the power to engage and captivate audiences. I take pride in my ability to distill complex information into intuitive charts, graphs, and interactive dashboards that empower decision-makers to extract actionable intelligence. 
+
+Let's connect! Visit my [Linkedin](https://www.linkedin.com/in/thayne-campbell/) or contact me via email at Thaynecampbell@gmail.com
+
+Scroll through the works below and you can see some of the projects I've completed using Python, SQL, Tableau, and Google Sheets. 
+***
+# Projects
 
 ![my_image](github_images/josh-bean-CjzEfZVYetI-unsplash.jpg)
 # Bikeshare Project
