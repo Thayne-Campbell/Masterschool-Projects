@@ -4,7 +4,7 @@
 Hello! I'm Thayne and you've found my portfolio! Scroll through the works below you can see some of the projects I've completed using Python, SQL, Tableau, and Google Sheets. 
 ****
 
-![my_image](josh-bean-CjzEfZVYetI-unsplash.jpg)
+![my_image](github_images/josh-bean-CjzEfZVYetI-unsplash.jpg)
 # Bikeshare Project
 #### In this project, I use Python to create a user-interactive program that explores the data of a Bikeshare company in New York, Chicago, and Washington. 
 ### You can view the Bikeshare project [Here](/Bikeshare_Project/bikeshare_project.py/)
