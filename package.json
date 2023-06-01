@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "marked": "^5.0.4",
+    "showdown": "^2.1.0"
+  }
+}

@@ -4,17 +4,17 @@
 ![my_image](github_images/Thayne_computer_headshot.jpg)
 Hey! I'm Thayne! Welcome to my data analyst portfolio! I'm a dedicated data analyst with a strong passion for transforming complex datasets into compelling visual stories. I thrive on the excitement of uncovering hidden insights and making meaningful connections within the numbers.
 
-With a keen eye for detail and a creative mindset, I specialize in crafting eye-catching visualizations that bring data to life. I believe that effective visual representations not only enhance understanding but also have the power to engage and captivate audiences. I take pride in my ability to distill complex information into intuitive charts, graphs, and interactive dashboards that empower decision-makers to extract actionable intelligence. 
+With a keen eye for detail and a creative mindset, I specialize in crafting eye-catching visualizations that bring data to life. I believe that effective visual representations not only enhance understanding but also have the power to engage and captivate audiences. I take pride in my ability to distill complex information into intuitive charts, graphs, and interactive dashboards that empower decision-makers to extract actionable intelligence.
 
 Let's connect! Visit my [Linkedin](https://www.linkedin.com/in/thayne-campbell/) or contact me via email at Thaynecampbell@gmail.com
 
-Scroll through the works below and you can see some of the projects I've completed using Python, SQL, Tableau, and Google Sheets. 
+Scroll through the works below and you can see some of the projects I've completed using Python, SQL, Tableau, and Google Sheets.
 ***
 # Projects
 
 ![my_image](github_images/josh-bean-CjzEfZVYetI-unsplash.jpg)
 # Bikeshare Project
-#### In this project, I use Python to create a user-interactive program that explores the data of a Bikeshare company in New York, Chicago, and Washington. 
+#### In this project, I use Python to create a user-interactive program that explores the data of a Bikeshare company in New York, Chicago, and Washington.
 ### You can view the Bikeshare project [Here](/Bikeshare_Project/bikeshare_project.py/)
 ***
 ![my_image](github_images/Deforestation_image.jpg)
@@ -39,6 +39,6 @@ Scroll through the works below and you can see some of the projects I've complet
 ***
 ![my_image](github_images/Loans_image.jpg)
 # Exploratory Data Analysis Project (Prosper Loan Data)
-#### In this project, I use Python to perform exploratory data analysis with the use of matplotlib and seaborn visualizations. 
+#### In this project, I use Python to perform exploratory data analysis with the use of matplotlib and seaborn visualizations.
 ### You can view my full Python code [Here](/EDA_Project/Prosper_loan_Part1.ipynb/), my summarized python code [Here](/EDA_Project/Prosper_loan_Part2.ipynb/), and my PDF presentation [Here](/EDA_Project/Prosper_loan_slideshow.pdf/)
 ***
