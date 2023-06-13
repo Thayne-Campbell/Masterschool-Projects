@@ -42,7 +42,7 @@ Scroll through the works below and you can see some of the projects I've complet
 #### In this project, I use Python to perform exploratory data analysis with the use of matplotlib and seaborn visualizations.
 ### You can view my full Python code [Here](/EDA_Project/Prosper_loan_Part1.ipynb/), my summarized python code [Here](/EDA_Project/Prosper_loan_Part2.ipynb/), and my PDF presentation [Here](/EDA_Project/Prosper_loan_slideshow.pdf/)
 ***
-![my_image](github_images/Capstone_project_screenshot.jpg)
+![my_image](github_images/Capstone_project_screenshot.png)
 # Product Profitability Analysis
 #### I worked with a small team of four to present our findings and analysis on an E-Commerce company's product profitability. 
 ### You can view the final presentation using PowerPoint and Tableau [Here](/Capstone_Group_Project_Powerpoint.pdf/)
