@@ -1,4 +1,4 @@
-# [Bank Churn Analysis](/Bank-churn-Data/notebook.ipynb)
+# [Bank Churn Analysis](/Bank-Churn-Data/notebook.ipynb/)
 ![my_image](data_files/bank_churn_graph.png)
 ## Overview
 An exploration and analysis of a bank's user data with the goal of finding the leading causes of users leaving the service, and to provide recommendations on how to mitigate these losses.
