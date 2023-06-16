@@ -1,5 +1,5 @@
 # Bank Churn Analysis
-![my_image](Bank-churn-Data/data_files/bank_churn_graph.png)
+![my_image](github_images/bank_churn_graph.png)
 ## Overview
 An exploration and analysis of a bank's user data with the goal of finding the leading causes of users leaving the service, and to provide recommendations on how to mitigate these losses.
 ## Dataset
